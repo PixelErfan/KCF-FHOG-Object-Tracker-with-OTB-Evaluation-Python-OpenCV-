@@ -138,4 +138,4 @@ Success curve (first 5):   [1. 1. 1. 1. 1.] ...
 
 ## License
 
-MIT (feel free to change to your preferred license).
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
